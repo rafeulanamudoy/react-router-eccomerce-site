@@ -1,0 +1,35 @@
+.reveiw-sub-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    border: 2px solid black;
+
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+
+.reveiw-sub-container>div {
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.reveiw-sub-container>:nth-child(3) {
+
+    display: flex;
+    width: fit-content;
+    margin-left: auto;
+    font-size: xx-large;
+    cursor: pointer;
+}
+
+
+
+.reveiw-sub-container>div>img {
+    width: 135px;
+    height: 135px;
+    display: block;
+}

@@ -1,0 +1,31 @@
+.head-container {
+
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding-left: 112px;
+    padding-right: 112px;
+
+}
+
+.head-container img {
+
+    Width: 140px;
+    Height: 42.46px;
+
+
+}
+
+.navigation-container {}
+
+.navigation-container a {
+    text-decoration: none;
+
+    color: inherit;
+    margin-left: 30px;
+    font-size: 17px;
+
+}

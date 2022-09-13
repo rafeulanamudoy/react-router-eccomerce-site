@@ -1,0 +1,55 @@
+.order-reveiw {
+    height: calc(100vh - 84px);
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.order-reveiw-container {
+    display: flex;
+
+
+
+
+
+
+
+
+
+
+    gap: 150px;
+
+
+
+}
+
+.order-reveiw-container>:nth-child(1) {
+    width: 70%;
+
+
+
+
+}
+
+.order-reveiw-container>:nth-child(2) {
+    width: 40%;
+
+
+
+
+}
+
+.reveiwItem-container {
+
+    display: grid;
+
+
+
+
+
+
+
+}
