@@ -1,6 +1,6 @@
 # Eccomerce site using react
 
-This project was bootstrapped with [react-router-ecommerce site](https://wondrous-lily-a66365.netlify.app/).
+Prjoect link [react-router-ecommerce site](https://wondrous-lily-a66365.netlify.app/).
 
-** local storage implement
-** react router implement
+* local storage implemented
+* react router implemented
